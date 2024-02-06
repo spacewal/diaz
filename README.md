@@ -1,7 +1,7 @@
 # Welcome to My GitHub Repository
 
 Salutations! 👋 I'm Alberto Diaz, and this is the realm where I play with code, delve into data, and share my fervor for transforming information into actionable insights.
-[Link Text](https://spacewal.github.io/diaz/)
+[My Website](https://spacewal.github.io/diaz/)
 
 ## About Yours Truly
 
